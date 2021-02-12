@@ -1,0 +1,107 @@
+In file included from Marlin\src\HAL\AVR\../../inc/MarlinConfig.h:49:0,
+                 from Marlin\src\HAL\AVR\HAL_SPI.cpp:34:
+Marlin\src\HAL\AVR\../../inc/SanityCheck.h:1225:3: error: stray '#' in program
+   #error "Please enable only one probe option: PROBE_MANUALLY, SENSORLESS_PROBING, BLTOUCH, FIX_MOUNTED_PROBE, NOZZLE_AS_PROBE, TOUCH_MI_PROBE, SOLENOID_PROBE, Z_PROBE_ALLEN_KEY, Z_PROBE_SLED, or Z Servo."
+   ^
+In file included from Marlin\src\HAL\AVR\../../inc/MarlinConfig.h:49:0,
+                 from Marlin\src\HAL\AVR\HAL.cpp:24:
+Marlin\src\HAL\AVR\../../inc/SanityCheck.h:1225:3: error: stray '#' in program
+   #error "Please enable only one probe option: PROBE_MANUALLY, SENSORLESS_PROBING, BLTOUCH, FIX_MOUNTED_PROBE, NOZZLE_AS_PROBE, TOUCH_MI_PROBE, SOLENOID_PROBE, Z_PROBE_ALLEN_KEY, Z_PROBE_SLED, or Z Servo."
+   ^
+In file included from Marlin\src\HAL\AVR\../../inc/MarlinConfig.h:49:0,
+                 from Marlin\src\HAL\AVR\MarlinSerial.cpp:39:
+Marlin\src\HAL\AVR\../../inc/SanityCheck.h:1225:3: error: stray '#' in program
+   #error "Please enable only one probe option: PROBE_MANUALLY, SENSORLESS_PROBING, BLTOUCH, FIX_MOUNTED_PROBE, NOZZLE_AS_PROBE, TOUCH_MI_PROBE, SOLENOID_PROBE, Z_PROBE_ALLEN_KEY, Z_PROBE_SLED, or Z Servo."
+   ^
+In file included from Marlin\src\HAL\AVR\../../inc/MarlinConfig.h:49:0,
+                 from Marlin\src\HAL\AVR\Servo.cpp:55:
+Marlin\src\HAL\AVR\../../inc/SanityCheck.h:1225:3: error: stray '#' in program
+   #error "Please enable only one probe option: PROBE_MANUALLY, SENSORLESS_PROBING, BLTOUCH, FIX_MOUNTED_PROBE, NOZZLE_AS_PROBE, TOUCH_MI_PROBE, SOLENOID_PROBE, Z_PROBE_ALLEN_KEY, Z_PROBE_SLED, or Z Servo."
+   ^
+Marlin\src\HAL\AVR\../../inc/SanityCheck.h:1218:3: error: expected unqualified-id before '+' token
+   + ENABLED(CREALITY_TOUCH) \
+Compiling .pio\build\mega2560\src\src\HAL\shared\eeprom_if_spi.cpp.o
+   ^
+In file included from Marlin\src\HAL\AVR\../../inc/MarlinConfig.h:49:0,
+                 from Marlin\src\HAL\AVR\eeprom.cpp:24:
+Marlin\src\HAL\AVR\../../inc/SanityCheck.h:1225:3: error: stray '#' in program
+   #error "Please enable only one probe option: PROBE_MANUALLY, SENSORLESS_PROBING, BLTOUCH, FIX_MOUNTED_PROBE, NOZZLE_AS_PROBE, TOUCH_MI_PROBE, SOLENOID_PROBE, Z_PROBE_ALLEN_KEY, Z_PROBE_SLED, or Z Servo."
+   ^
+Compiling .pio\build\mega2560\src\src\HAL\shared\esp_wifi.cpp.o
+cc1plus.exe: warning: unrecognized command line option '-Wno-register'
+Marlin\src\HAL\AVR\../../inc/SanityCheck.h:1218:3: error: expected unqualified-id before '+' token
+   + ENABLED(CREALITY_TOUCH) \
+   ^
+Marlin\src\HAL\AVR\../../inc/SanityCheck.h:1218:3: error: expected unqualified-id before '+' token
+   + ENABLED(CREALITY_TOUCH) \
+   ^
+Marlin\src\HAL\AVR\../../inc/SanityCheck.h:1218:3: error: expected unqualified-id before '+' token
+   + ENABLED(CREALITY_TOUCH) \
+   ^
+cc1plus.exe: warning: unrecognized command line option '-Wno-register'
+cc1plus.exe: warning: unrecognized command line option '-Wno-register'
+In file included from Marlin\src\HAL\AVR\../../inc/MarlinConfig.h:49:0,
+                 from Marlin\src\HAL\AVR\watchdog.cpp:24:
+Marlin\src\HAL\AVR\../../inc/SanityCheck.h:1225:3: error: stray '#' in program
+   #error "Please enable only one probe option: PROBE_MANUALLY, SENSORLESS_PROBING, BLTOUCH, FIX_MOUNTED_PROBE, NOZZLE_AS_PROBE, TOUCH_MI_PROBE, SOLENOID_PROBE, Z_PROBE_ALLEN_KEY, Z_PROBE_SLED, or Z Servo."
+   ^
+In file included from Marlin\src\HAL\shared\../../inc/MarlinConfig.h:49:0,
+                 from Marlin\src\HAL\shared\HAL_spi_L6470.cpp:28:
+Marlin\src\HAL\shared\../../inc/SanityCheck.h:1225:3: error: stray '#' in program
+   #error "Please enable only one probe option: PROBE_MANUALLY, SENSORLESS_PROBING, BLTOUCH, FIX_MOUNTED_PROBE, NOZZLE_AS_PROBE, TOUCH_MI_PROBE, SOLENOID_PROBE, Z_PROBE_ALLEN_KEY, Z_PROBE_SLED, or Z Servo."
+   ^
+cc1plus.exe: warning: unrecognized command line option '-Wno-register'
+*** [.pio\build\mega2560\src\src\HAL\AVR\HAL_SPI.cpp.o] Error 1
+*** [.pio\build\mega2560\src\src\HAL\AVR\HAL.cpp.o] Error 1
+Marlin\src\HAL\AVR\../../inc/SanityCheck.h:1218:3: error: expected unqualified-id before '+' token
+   + ENABLED(CREALITY_TOUCH) \
+   ^
+*** [.pio\build\mega2560\src\src\HAL\AVR\Servo.cpp.o] Error 1
+In file included from Marlin\src\HAL\shared\../../inc/MarlinConfig.h:49:0,
+                 from Marlin\src\HAL\shared\eeprom_if_i2c.cpp:28:
+Marlin\src\HAL\shared\../../inc/SanityCheck.h:1225:3: error: stray '#' in program
+   #error "Please enable only one probe option: PROBE_MANUALLY, SENSORLESS_PROBING, BLTOUCH, FIX_MOUNTED_PROBE, NOZZLE_AS_PROBE, TOUCH_MI_PROBE, SOLENOID_PROBE, Z_PROBE_ALLEN_KEY, Z_PROBE_SLED, or Z Servo."
+   ^
+*** [.pio\build\mega2560\src\src\HAL\AVR\MarlinSerial.cpp.o] Error 1
+cc1plus.exe: warning: unrecognized command line option '-Wno-register'
+*** [.pio\build\mega2560\src\src\HAL\AVR\eeprom.cpp.o] Error 1
+Marlin\src\HAL\AVR\../../inc/SanityCheck.h:1218:3: error: expected unqualified-id before '+' token
+   + ENABLED(CREALITY_TOUCH) \
+   ^
+Marlin\src\HAL\shared\../../inc/SanityCheck.h:1218:3: error: expected unqualified-id before '+' token
+   + ENABLED(CREALITY_TOUCH) \
+   ^
+cc1plus.exe: warning: unrecognized command line option '-Wno-register'
+cc1plus.exe: warning: unrecognized command line option '-Wno-register'
+Marlin\src\HAL\shared\../../inc/SanityCheck.h:1218:3: error: expected unqualified-id before '+' token
+   + ENABLED(CREALITY_TOUCH) \
+   ^
+*** [.pio\build\mega2560\src\src\HAL\shared\HAL_spi_L6470.cpp.o] Error 1
+cc1plus.exe: warning: unrecognized command line option '-Wno-register'
+*** [.pio\build\mega2560\src\src\HAL\AVR\watchdog.cpp.o] Error 1
+*** [.pio\build\mega2560\src\src\HAL\shared\eeprom_if_i2c.cpp.o] Error 1
+In file included from Marlin\src\HAL\shared\../../inc/MarlinConfig.h:49:0,
+                 from Marlin\src\HAL\shared\eeprom_if_spi.cpp:28:
+Marlin\src\HAL\shared\../../inc/SanityCheck.h:1225:3: error: stray '#' in program
+   #error "Please enable only one probe option: PROBE_MANUALLY, SENSORLESS_PROBING, BLTOUCH, FIX_MOUNTED_PROBE, NOZZLE_AS_PROBE, TOUCH_MI_PROBE, SOLENOID_PROBE, Z_PROBE_ALLEN_KEY, Z_PROBE_SLED, or Z Servo."
+   ^
+In file included from Marlin\src\HAL\shared\../../inc/MarlinConfig.h:49:0,
+                 from Marlin\src\HAL\shared\esp_wifi.cpp:23:
+Marlin\src\HAL\shared\../../inc/SanityCheck.h:1225:3: error: stray '#' in program
+   #error "Please enable only one probe option: PROBE_MANUALLY, SENSORLESS_PROBING, BLTOUCH, FIX_MOUNTED_PROBE, NOZZLE_AS_PROBE, TOUCH_MI_PROBE, SOLENOID_PROBE, Z_PROBE_ALLEN_KEY, Z_PROBE_SLED, or Z Servo."
+   ^
+Marlin\src\HAL\shared\../../inc/SanityCheck.h:1218:3: error: expected unqualified-id before '+' token
+   + ENABLED(CREALITY_TOUCH) \
+   ^
+cc1plus.exe: warning: unrecognized command line option '-Wno-register'
+*** [.pio\build\mega2560\src\src\HAL\shared\eeprom_if_spi.cpp.o] Error 1
+Marlin\src\HAL\shared\../../inc/SanityCheck.h:1218:3: error: expected unqualified-id before '+' token
+   + ENABLED(CREALITY_TOUCH) \
+   ^
+cc1plus.exe: warning: unrecognized command line option '-Wno-register'
+*** [.pio\build\mega2560\src\src\HAL\shared\esp_wifi.cpp.o] Error 1
+==================================================================== [FAILED] Took 5.71 seconds ====================================================================
+
+Environment    Status    Duration
+-------------  --------  ------------
+mega2560       FAILED    00:00:05.712
